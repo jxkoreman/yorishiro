@@ -1,0 +1,2 @@
+# yorishiro
+yorishiro.moe repository
